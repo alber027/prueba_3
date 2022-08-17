@@ -1,0 +1,108 @@
+a{
+     color:cyan;
+     text-decoration:none;
+     text-shadow:4pt 3pt 5pt black;
+}
+a:link{
+     color:cyan;
+     text-decoration:none;
+     text-shadow:4pt 3pt 5pt black;
+}
+a:visited{
+     color:cyan;
+     text-decoration:none;
+     text-shadow:4pt 3pt 5pt black;
+}
+a:focus{
+     color:cyan;
+     text-decoration:none;
+     text-shadow:4pt 3pt 5pt black;
+}
+a:hover{
+     color:blue;
+     text-decoration:none;
+     text-shadow:4pt 3pt 5pt black;
+}
+a:active{
+     color:blue;
+     text-decoration:none;
+     text-shadow:4pt 3pt 5pt black;
+}
+h1{
+     text-align:center;
+     font-family:'algerian';
+     color:red;
+     font-size:70pt;
+     text-shadow:7pt 5pt 5pt black;
+     margin-top:200pt;
+}
+h3{
+     text-align:center;
+     margin-top:-10pt;
+     font-family:'arial black';
+     font-size:20pt;
+}
+h2{
+     text-align:center;
+     font-family:'Brush Script MT';
+     color:red;
+     font-size:120pt;
+     text-shadow:8px 4px 5px black;
+     text-decoration:underline;
+     margin-top:200pt;
+     margin-bottom:50pt;
+}
+p{
+     font-family:'Alfa Slab One';
+     text-align:justify;
+     font-size:18pt;
+     margin:0 10vw;
+     line-height:25pt;
+     -webkit-text-stroke:0.25pt white;
+}
+li{
+     text-decoration:none;
+     text-align:center;
+     list-style:none;
+     color:cyan;
+     font-family:'Rubik Marker Hatch';
+     font-size:40pt;
+     margin-top:30pt;
+     text-shadow:3pt 3pt 3pt black;
+}
+.volver{
+     position:fixed;
+     font-size:30pt;
+     font-family:'Rubik Marker Hatch';
+     top:10px;
+}
+.con-fondo{
+     background-position:center 0;
+     background-repeat:no-repeat;
+     background-size:cover;
+}
+#fondo-index{
+     background-image:url(fondo-index.png);
+}
+#fondo-objetivos1{
+     background-image:url(https://www.caracteristicas.co/wp-content/uploads/2017/10/objetivos-e1571889764116-800x416.jpg);
+}
+#fondo-objetivos2{
+     background-image:url(https://www.sebascelis.com/imagenes/ya-tienes-tu-lista-de-objetivos_x2.jpg);
+}
+#fondo-autoevaluacion{
+     background-image:url(https://www.maacformacion.es/wp-content/uploads/2020/06/2068173.jpg);
+}
+#fondo-dias{
+     background-image:url(gradiente-final.png);
+     background-position:center 0;
+     background-repeat:repeat;
+     background-size:contain;
+}
+.ir-a{
+     position:fixed;
+     font-size:30pt;
+     font-family:'Rubik Marker Hatch';
+     bottom:10px;
+     right:10px;
+}
